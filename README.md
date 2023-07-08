@@ -4,6 +4,9 @@
 - ```sh
   npm i react-accessible-accordion
   ```
+- ```sh
+  npm i react-select-async-paginate --force
+  ```
 
 
 
